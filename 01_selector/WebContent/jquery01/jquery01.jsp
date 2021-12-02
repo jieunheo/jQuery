@@ -21,6 +21,8 @@
 				$("div").css("border","1px solid #000");
 				//클래스 선택자 - 전체 적용
 				$(".myclass").css("background-color","yellow");
+				//멀티 선택자
+				$(".myclass, span").css("font-size","10px");
 			}
 		</script>
 		
