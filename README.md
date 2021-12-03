@@ -19,3 +19,4 @@ jquery 연습
   
 ## 03_event
   01_click.jsp - click 이벤트  
+  02_hover.jsp - 마우스 올라갔을 때 이벤트  
