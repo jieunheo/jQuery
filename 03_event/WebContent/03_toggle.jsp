@@ -5,7 +5,7 @@
 	<head>
 	<meta charset="UTF-8">
 	<title>jquery 연습</title>
-	<script src="../js/jquery-3.6.0.js"></script>
+	<script src="./js/jquery-3.6.0.js"></script>
 	</head>
 	<body>
 		<style>
@@ -86,6 +86,93 @@
 			</tr>
 			<tr>
 				<td>메뉴3-3</td>
+			</tr>
+		</table>
+		
+		<table border="1" width="100%" >
+			<tr>
+				<th>번호</th>
+				<th>제목</th>
+			</tr>
+			<tr>
+				<td>1</td>
+				<td>제목입니다</td>
+			</tr>
+			<tr>
+				<td>2</td>
+				<td>제목입니다</td>
+			</tr>
+			<tr>
+				<td>3</td>
+				<td>제목입니다</td>
+			</tr>
+			<tr>
+				<td>4</td>
+				<td>제목입니다</td>
+			</tr>
+			<tr>
+				<td>5</td>
+				<td>제목입니다</td>
+			</tr>
+			<tr>
+				<td>6</td>
+				<td>제목입니다</td>
+			</tr>
+			<tr>
+				<td>7</td>
+				<td>제목입니다</td>
+			</tr>
+			<tr>
+				<td>8</td>
+				<td>제목입니다</td>
+			</tr>
+			<tr>
+				<td>9</td>
+				<td>제목입니다</td>
+			</tr>
+			<tr>
+				<td>10</td>
+				<td>제목입니다</td>
+			</tr>
+			<tr>
+				<td>11</td>
+				<td>제목입니다</td>
+			</tr>
+			<tr>
+				<td>12</td>
+				<td>제목입니다</td>
+			</tr>
+			<tr>
+				<td>13</td>
+				<td>제목입니다</td>
+			</tr>
+			<tr>
+				<td>14</td>
+				<td>제목입니다</td>
+			</tr>
+			<tr>
+				<td>15</td>
+				<td>제목입니다</td>
+			</tr>
+			<tr>
+				<td>16</td>
+				<td>제목입니다</td>
+			</tr>
+			<tr>
+				<td>17</td>
+				<td>제목입니다</td>
+			</tr>
+			<tr>
+				<td>18</td>
+				<td>제목입니다</td>
+			</tr>
+			<tr>
+				<td>19</td>
+				<td>제목입니다</td>
+			</tr>
+			<tr>
+				<td>20</td>
+				<td>제목입니다</td>
 			</tr>
 		</table>
 	</body>
