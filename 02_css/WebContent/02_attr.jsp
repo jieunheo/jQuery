@@ -18,9 +18,14 @@
 			{
 				$('#myimg').attr('width','20.5%');
 			}
+
+			function ShowOrg()
+			{
+				$('#myimg').attr('width','20%');
+			}
 		</script>
 		
-		<img id="myimg" onmouseover="ShowBig();" src="./img/dog.jpg" width="20%">
+		<img id="myimg" onmouseover="ShowBig();" onmouseout="ShowOrg();" src="./img/dog.jpg" width="20%">
 		<a href="javascript:SetCat();">고양이로 변경</a>
 	</body>
 </html>
