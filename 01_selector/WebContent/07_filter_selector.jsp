@@ -5,7 +5,7 @@
 	<head>
 	<meta charset="UTF-8">
 	<title>jquery 연습</title>
-	<script src="../js/jquery-3.6.0.js"></script>
+	<script src="./jquery-3.6.0.js"></script>
 	</head>
 	<body>
 		<script>
