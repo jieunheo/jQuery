@@ -31,15 +31,16 @@
 					//alert($(this).attr('id'));
 					var tag = $(this).attr('id');
 
-					$('#subMenuA').css('display','none');
-					$('#subMenuB').css('display','none');
-					$('#subMenuC').css('display','none');
+					//$('#subMenuA,#subMenuB,#subMenuC').css('display','none');
 					
 					if(tag == "menuA") {
+						$('#subMenuB,#subMenuC').css('display','none');
 						$('#subMenuA').toggle();
 					} else if (tag == "menuB") {
+						$('#subMenuA,#subMenuC').css('display','none');
 						$('#subMenuB').toggle();
 					} else {
+						$('#subMenuA,#subMenuB').css('display','none');
 						$('#subMenuC').toggle();
 					}
 				});
