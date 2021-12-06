@@ -21,3 +21,7 @@ jquery 연습
   01_click.jsp - click 이벤트  
   02_hover.jsp - 마우스 올라갔을 때 이벤트  
   03_toggle.jsp - 클릭시 토글 이벤트  
+  
+## 04_Ajax
+  ### 01_ajaxa - ajax 사용  
+  ### 02_login - ajax를 이용한 아이디 중복 확인 구현  
