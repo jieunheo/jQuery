@@ -26,3 +26,5 @@ jquery 연습
   ### 01_ajaxa - ajax 사용  
   ### 02_login - ajax를 이용한 아이디 중복 확인 구현  
   ### 03_chat - chat 구현  
+  ### 04_xml - xml 사용  
+  ### 05_json - json 사용  
